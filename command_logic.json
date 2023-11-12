@@ -1,0 +1,18 @@
+{
+  "sleeping": {
+    "ai3": {"action": "update_status", "message": "ai3 ready.", "next_mode": "command"}
+
+  },
+  "listening": {
+    "ai3 exit": {"action": "update_status", "message": "ai3 going to sleep.", "next_mode": "sleeping"}
+  },
+  "command": {
+    "submit": {"action": "submit", "message": "ai3 submitting prompt.","next_mode": "sleeping"},
+    "exit": {"action": "exit", "message": "ai3 going to sleep.","next_mode": "sleeping"},
+    "close": {"action": "close","message": "ai3 closing down.", "next_mode": ""},
+    "chat": {"action": "chat_gpt_command","message": "ai3 opening ChatGPT.",  "next_mode": "sleeping"},
+    "cat": {"action": "chat_gpt_command","message": "ai3 opening ChatGPT.",  "next_mode": "sleeping"},
+    "hat": {"action": "chat_gpt_command","message": "ai3 opening ChatGPT.",  "next_mode": "sleeping"},
+    "record": {"action": "update_status", "message": "ai3 recording.","next_mode": "listening"}
+  }
+}
