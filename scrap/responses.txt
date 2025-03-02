@@ -1,0 +1,478 @@
+Model: EleutherAI/gpt-neo-1.3B
+Prompt: Write me a description of a large oak tree.
+
+Parameters:
+Max Length: 154, Temperature: 0.6178774385209114, Top K: 44, Top P: 0.8530877713436211, No Repeat N-Gram Size: 2
+Response:
+A:
+
+Parameters:
+Max Length: 147, Temperature: 0.5852488254723223, Top K: 32, Top P: 0.6791724648579662, No Repeat N-Gram Size: 4
+Response:
+I have a large oak that I have been growing for about 3 years now. I have been getting it to about 6 feet tall and about 1 foot wide. I have a lot of branches and I have a couple of different varieties of oak. I am hoping to get a couple of trees that are about the same size and shape. I am going to put a fence around it and put a fence post in the ground. I am also going to put some small trees in the back of the yard. I am not sure what size I am going for but I am hoping it is around 1 foot wide and 1 foot tall. I am looking for a tree that is a
+
+Parameters:
+Max Length: 170, Temperature: 0.7227292678472093, Top K: 50, Top P: 0.7538060923600888, No Repeat N-Gram Size: 2
+Response:
+The tree was about 2-1/2 feet tall, with a trunk of about 5 feet. The bark was dark brown and thick, and the tree had a number of small holes in it. It was very dense and was not easily broken. There were no branches to the trunk. I believe that the bark on the upper side was much thinner than the lower side. A large tree would have had several large branches, but I was unable to see any. If I had to guess, I would say that it was a big old tree, probably over 100 years old. However, there were several smaller trees near the top of the hill, so I think that this tree could be a small one. In any case, the soil was sandy, not very good, very sandy.
+
+Parameters:
+Max Length: 97, Temperature: 0.7897029836783339, Top K: 32, Top P: 0.6976105678271908, No Repeat N-Gram Size: 5
+Response:
+I am a big fan of trees, and this is one of my favorite trees. It is a huge tree that has been growing for a very long time. It is also a very interesting tree, because it has a very unique shape. I would love to see a picture of the tree, and the tree is very easy to find. I would love a picture of the trunk of the tree, as well as the leaves. I
+
+Parameters:
+Max Length: 184, Temperature: 0.9865179456753395, Top K: 39, Top P: 0.5820604015871997, No Repeat N-Gram Size: 5
+Response:
+I have no clue what this is, but I think it's a tree.
+
+The tree is huge, and it's growing up to 20' tall.
+
+I want to get this tree out of the ground.
+
+I can't just cut it down, because I don't know what kind of tree it is.
+
+It's got a trunk, and I'm pretty sure it's a red oak tree.
+The trunk is about 12' tall, and the trunk is red.
+The trunk has been cut down, and I'm going to try to get it out of the ground by cutting it down.
+
+What kind of tree is it?
+
+Is it a red oak tree?
+Is it a big red oak tree? Is it a big red oaks?
+
+Is there a big red oak
+
+Parameters:
+Max Length: 96, Temperature: 0.5669055023390421, Top K: 16, Top P: 0.5171638855605167, No Repeat N-Gram Size: 3
+Response:
+I am looking for a large tree that is about 10 feet tall and has a trunk that is at least 10 feet in diameter. I am looking to buy a tree that has a large trunk and is in good condition. I would like to buy the tree in the spring.
+I would like the tree to be in good shape and not be diseased.
+The tree should be in the ground and not in a
+
+Parameters:
+Max Length: 107, Temperature: 0.5452629716838693, Top K: 48, Top P: 0.8601928760154114, No Repeat N-Gram Size: 4
+Response:
+I want to make a drawing of it.
+
+A:
+
+You can use the following code:
+import tkinter as tk
+
+root = tk.Tk()
+root.geometry('600x600')
+root.title('Test')
+
+# Create a label and place it at the top of the window.
+label = tkinter.Label(root, text="Hello, world!")
+label.pack()
+
+Parameters:
+Max Length: 60, Temperature: 0.9181438982060959, Top K: 44, Top P: 0.5300619199165864, No Repeat N-Gram Size: 4
+Response:
+I have a lot of trees in my yard, some of them are huge, and I have a lot to learn about them. I would like to know what kind of tree this is. I am not looking for a tree, I am
+
+Parameters:
+Max Length: 104, Temperature: 0.5870893074176605, Top K: 21, Top P: 0.748367948944552, No Repeat N-Gram Size: 2
+Response:
+I'm not sure what you're asking. I'll try to answer it. First, a tree is a living thing. It's not just a dead thing, and it doesn't just die. A tree has a life of its own, which is why you can't cut it down. You can only kill it, but you have to do it slowly, so it can live on. So, you need to know what a good tree looks like.
+
+Parameters:
+Max Length: 139, Temperature: 0.500440077873157, Top K: 28, Top P: 0.8140714894209551, No Repeat N-Gram Size: 3
+Response:
+A:
+
+I would say that the answer is "oak".
+The tree is a large one, and it has a trunk that is a good size. The tree is not a large tree, but it is a very large tree. 
+The trunk is not the largest part of the tree. The trunk is the largest portion of the trunk that has a large diameter. The largest diameter of the largest diameter trunk of the oak is about 18 inches.
+The leaves are the largest leaves on the tree, and they are the leaves that are the most noticeable. The leaves are not the most visible leaves on a tree,
+
+Parameters:
+Max Length: 63, Temperature: 0.5788095226372207, Top K: 21, Top P: 0.7549249791657939, No Repeat N-Gram Size: 5
+Response:
+I will then be able to describe the tree and its characteristics.
+
+I have to say, I'm not a tree expert, but I do know that a large oak tree is a tree that has a trunk that is about 8 feet in diameter,
+
+Parameters:
+Max Length: 112, Temperature: 0.6661329543753558, Top K: 38, Top P: 0.75046243549256, No Repeat N-Gram Size: 3
+Response:
+I’m looking for a large tree with a trunk that is approximately 8 feet in diameter.
+I would like to purchase a tree that is not too large to be planted in a backyard or garden.
+The tree must be able to withstand heavy winds and be able withstand a heavy wind storm.
+This tree must also be able not to be damaged by a heavy rain storm. The tree must not be damaged during a wind storm or during a severe thunderstorm.
+Please let me know
+
+Parameters:
+Max Length: 89, Temperature: 0.9653861889331139, Top K: 17, Top P: 0.6852759847152237, No Repeat N-Gram Size: 3
+Response:
+It should be easy to write about, and I would like to see a photo of it, so please send it to me. Thanks!
+
+I am a graduate student in the College of Arts and Sciences. I am currently writing a book proposal on the history of the University of Wisconsin. I also teach undergraduate history. I have been writing for several years now and I am very excited about
+
+Parameters:
+Max Length: 200, Temperature: 0.5086906949529898, Top K: 18, Top P: 0.7205716967117799, No Repeat N-Gram Size: 4
+Response:
+I’ve been asked to write about a large oak in the Sierra Nevada mountains. The tree is about 50-60 feet tall and has a trunk diameter of about 10 feet. The tree has been in the Sierra for about 100 years.
+
+The tree is a member of the Douglas-fir family. It is a very large tree. The tree’s height is about 10 feet and the trunk is about 10-12 feet in diameter.
+
+What is the tree’ s history?
+
+The Douglas-firs are a large family of trees. The family tree is about 150 years old. The Douglas-firis are a large group of trees.
+
+There are about 10 species of Douglas-firi. The tree I am writing about is a member, or a descendant, of the Douglas firs.
+
+How did the tree get its name?
+
+I am not sure
+
+Parameters:
+Max Length: 64, Temperature: 0.8339833832003327, Top K: 17, Top P: 0.5684183293316065, No Repeat N-Gram Size: 3
+Response:
+I would like to have a large tree that is about 5-10 feet tall. I would like the tree to be about 30 feet wide and about 20 feet high. I will be using the tree for shade and for the purpose of creating a natural looking tree
+
+Parameters:
+Max Length: 101, Temperature: 0.7601143738740599, Top K: 21, Top P: 0.5166491478703421, No Repeat N-Gram Size: 3
+Response:
+I would like to know the diameter of the tree, the height of the trunk, the age of the wood, the color of the bark, the shape of the leaves, the size of the branches, the number of the limbs, the diameter and length of the roots, the type of the soil, the soil pH, the amount of moisture, the presence of insects, the temperature of the year, the wind, the humidity, the sun, the
+
+Parameters:
+Max Length: 158, Temperature: 0.7204240744343026, Top K: 45, Top P: 0.9336878279007009, No Repeat N-Gram Size: 5
+Response:
+It can be a young tree, with a trunk diameter of 50 to 200 inches, or an old tree, with a diameter of 200 inches or more. If it is a young tree, it has a trunk that is between 10 and 30 feet in diameter at the base. If it is an old tree, it has been over 100 years old. I want you to describe the tree, as best you can, using a scale of 1 to 10. You can also use a scale of 1,000 to 1,000,000. If you have any questions, please ask.
+
+Answer:
+
+I am going to describe an oak tree. The tree is a 50 to 200 inch diameter oak, or an old oak,
+
+Parameters:
+Max Length: 138, Temperature: 0.5933403332340208, Top K: 20, Top P: 0.5690130694975046, No Repeat N-Gram Size: 4
+Response:
+I have a large oak in my yard. It is a mature tree, and it is a large tree. It is about 50 feet tall, and it has a trunk that is about 8 feet in diameter.
+
+The tree is about 15 feet tall, with a trunk that measures about 8 feet.
+
+It is a very large tree, and I have never seen it before.
+
+What is the best way to describe the tree?
+
+I would like to describe the trunk of the tree.
+I would also like to describe its branches.
+
+Is there a way to describe a large oak?
+
+Parameters:
+Max Length: 152, Temperature: 0.5504210966684628, Top K: 42, Top P: 0.5706091129725447, No Repeat N-Gram Size: 4
+Response:
+I have a large oak in my yard. It is a mature tree, and I have been told that it is the largest in the state. I would like to know what it is.
+
+A:
+
+The largest tree in the state is the 100-year-old Oak of the Ozarks, which is over 2,000 years old.
+The largest oak in the world is the 100,000-year- old Oak of the Wabash, which is the largest tree in North America.
+The 100-year Oak of the State of Illinois is the largest oak in Illinois.
+The oldest oak in the United States is the 100 year old Oak of Illinois, which
+
+Parameters:
+Max Length: 104, Temperature: 0.9480560608616289, Top K: 32, Top P: 0.9056465450253235, No Repeat N-Gram Size: 5
+Response:
+I need help with my work, please. It's probably a dead tree by now.
+
+I've been toying with the idea of going to a large oak tree on a Saturday afternoon. I'd be there on a weekday and it would be in the morning. My friend would have to help me with my work. I need to know what I need to know, or what I should be doing, and how to prepare myself to go there on a Saturday
+
+Parameters:
+Max Length: 51, Temperature: 0.7253549087864675, Top K: 21, Top P: 0.8560913309586099, No Repeat N-Gram Size: 4
+Response:
+I am looking for a large tree that has a trunk that is 3 feet in diameter.
+
+The tree is in a state of decay, and I have been told that the trunk may have
+
+Parameters:
+Max Length: 90, Temperature: 0.6063034792736137, Top K: 31, Top P: 0.6264713423879653, No Repeat N-Gram Size: 5
+Response:
+I'm not sure what you're asking, but I'm not sure I can help you.
+
+I don't know what you mean by "large".
+
+I'm sorry, but I don't know what I mean by "large" either.
+
+I can't help you.
+I'm sorry.
+
+I'll try to explain what I mean by large.
+
+Parameters:
+Max Length: 166, Temperature: 0.9758641102978076, Top K: 36, Top P: 0.5592383035771573, No Repeat N-Gram Size: 2
+Response:
+Description:
+The tree is approximately 30 feet tall and is a red-brown, medium-sized, evergreen, deciduous tree, growing on a hillside in a residential neighborhood in the eastern part of the city of St. Louis. The tree has a trunk diameter of approximately 2 feet and a height of 2 to 3 feet. It is decayed, with a few areas of decay on the trunk. A few branches are broken off, but most of them are healthy. There is some dead wood on branches, as well as on trunk, and some of it is very dry. This tree may be an old one. Some of its bark is cracked and the bark on its trunk is dry and brittle. In general, the tree looks healthy and well
+
+Parameters:
+Max Length: 92, Temperature: 0.9757275238512617, Top K: 13, Top P: 0.7721408295736982, No Repeat N-Gram Size: 4
+Response:
+A:
+
+A tree with a single trunk is a single-trunk tree.
+A tree that has a trunk with multiple branches is a multiple-trunked tree.
+An oak tree is an oak tree.
+
+Parameters:
+Max Length: 89, Temperature: 0.9897864189404098, Top K: 43, Top P: 0.9257430502831465, No Repeat N-Gram Size: 2
+Response:
+You can give me specific places the tree has been damaged. Please send this to [email protected]
+
+Your Name
+*
+Company
+(e.g. IBM)
+Title
+City or State
+Phone Number
+Email
+This is the title of your tree and is how you would describe it (e-mail or tree ID required)
+
+Parameters:
+Max Length: 68, Temperature: 0.9519976125227418, Top K: 21, Top P: 0.7894081322721043, No Repeat N-Gram Size: 3
+Response:
+I'm going to do a tree, I need a description.
+I want to do an image that has a tree on it, and I want the image to have a nice round image of the tree. The image is supposed to look like a tree that has been in the
+
+Parameters:
+Max Length: 127, Temperature: 0.709279596177915, Top K: 46, Top P: 0.9741699115478, No Repeat N-Gram Size: 3
+Response:
+I'm not a woodcarver, but I'll try.
+I'll start with a big, old tree like this one:
+
+And the branches of it:
+ 
+And you can see that the bark is smooth on the trunk and thick on the branches.
+  
+It's a tree that lives in the forest, because it's a very old tree. And in the past it was used for lumber, because there's no big forest left.
+But now it's used for furniture. And it's also used for houses.
+And
+
+Parameters:
+Max Length: 143, Temperature: 0.6027572093678797, Top K: 38, Top P: 0.5907332032120931, No Repeat N-Gram Size: 5
+Response:
+A:
+
+The answer is:
+
+A:
+
+ 
+
+A: 
+
+I think the answer is:
+
+ 
+ 
+
+I would also add that
+
+ 
+
+is the answer.
+
+Parameters:
+Max Length: 185, Temperature: 0.7298807767626623, Top K: 39, Top P: 0.5188173245095935, No Repeat N-Gram Size: 5
+Response:
+I’d like to see a picture of it.
+
+I’m not a tree expert, but I’m a tree lover. I love trees, and I love to see them. I love to see the trees, and I want to see them.
+
+I want to see them because I love them.
+
+The trees are beautiful. They are beautiful to me.
+
+I love the trees because they are beautiful.
+
+I don’t care what they look like. I don’t need to know how they look. I just want to see them, and I want them to be beautiful.
+
+The tree is beautiful.
+
+If you want to see a tree, go to a park. If you want to see the tree, go to the park. If you don’t want
+
+Parameters:
+Max Length: 196, Temperature: 0.5255481213486549, Top K: 21, Top P: 0.9581217223705862, No Repeat N-Gram Size: 5
+Response:
+I'd like to know how many trees there are in the area.
+
+I'm looking for a tree that's over 100 years old.
+
+I've seen trees that are over 100 years old that were over 10 feet tall.
+
+I don't want to get in an argument with you because I don't know if you're interested in buying a tree.
+
+What I'm looking for is a tree that's at least 100 years old. The tree should be at least 50 feet tall.
+I'm looking to buy a tree that's in good shape.
+
+I want to buy a tree to put in my yard.
+
+I am looking for a tree with a nice shape and a nice color.
+
+I would like to know if the tree is in good shape. I would like to know how old it is.
+
+I have to have a tree that is in
+
+Parameters:
+Max Length: 54, Temperature: 0.8769291064804925, Top K: 22, Top P: 0.7948203709725008, No Repeat N-Gram Size: 3
+Response:
+The description should be brief and to the point. I don’t care about how the tree looks, but I do care about the tree’s ability to survive the elements. The tree should be able to
+
+Parameters:
+Max Length: 150, Temperature: 0.6425072502554366, Top K: 22, Top P: 0.9189144582194588, No Repeat N-Gram Size: 5
+Response:
+I'm thinking of buying a house in a small town and I want to know what kind of trees are available in the area. I also want to know how big they are.
+
+The tree I am thinking about buying is a large oak tree that is 5 or 6 feet in diameter.
+
+I am interested in the best location for this tree. I would like to buy it in a small town, but I am also interested in buying it in a large town.
+
+I want to know the tree's current height and diameter.
+
+Thank you.
+
+A:
+
+I would guess that the tree is about 5-6 feet in diameter, so you are looking
+
+Parameters:
+Max Length: 123, Temperature: 0.9212486572720979, Top K: 30, Top P: 0.5076734153260781, No Repeat N-Gram Size: 3
+Response:
+A:
+
+I think this is a question about how to write a question. 
+The answer is that you should write a description.  
+If you are asking about a tree, then you should describe the tree.  If you are looking for a tree in the wild, then describe the trees in the forest.  And so on.  This is what you should do.  You should not try to answer the question.
+If the question is not about a specific tree, but rather about a general question about trees, then
+
+Parameters:
+Max Length: 128, Temperature: 0.9801265337329846, Top K: 37, Top P: 0.6085134504972047, No Repeat N-Gram Size: 3
+Response:
+I'm looking for a tree that has a big trunk and big branches. I'd like to plant a tree in my yard that is at least 30 feet tall. I want to plant it near a stream. I'm willing to buy the tree, but I'm not willing to take the risk of it dying.
+If anyone has any ideas, I'd be very grateful.
+Thank you!
+
+A:
+
+You could plant a deciduous tree. It's a tree which dies down in the winter and regrows in the spring. 
+
+Source
+
+Parameters:
+Max Length: 191, Temperature: 0.9546298994012279, Top K: 49, Top P: 0.8432818654567753, No Repeat N-Gram Size: 4
+Response:
+1. Please include your street address, the date the tree was planted, and your phone number.
+
+2. Please include a photograph of the tree.
+2.
+
+Please be as descriptive as possible.
+
+3. Please provide a brief description of the tree’s location, including any information that will help us understand your tree’ s purpose.
+3.
+
+4. Please provide your city, state, and/or country of residence, as well as your zip code.
+
+5. Please include any special requirements, such as special lighting requirements, that are in effect at the time of your request.
+
+6. Please include details about any specific information that you may need in order to accomplish your tree‘s purpose.
+
+7. If the tree is located in a private, public, or government park, please provide a
+
+Parameters:
+Max Length: 165, Temperature: 0.5638534586732149, Top K: 49, Top P: 0.9606577877219974, No Repeat N-Gram Size: 3
+Response:
+I need to know its diameter, height and the circumference. I am also interested in the species of tree, its history, and any other information that will help me make a better decision.
+
+I am looking for a tree that has a diameter of at least 10 feet, but I may be willing to accept smaller trees if they are available.
+I would prefer a large, old, mature oak tree, but any tree would be fine.
+The tree should be on a slope or hillside, with good drainage.
+Thanks for your help!
+
+A:
+
+The diameter of an oak is a good measurement, and the tree should have been growing on a hillside or slope.  I think you'll find that this is not a difficult tree
+
+Parameters:
+Max Length: 179, Temperature: 0.8049703365473564, Top K: 42, Top P: 0.7486356787178061, No Repeat N-Gram Size: 3
+Response:
+I will pay for the trees.
+I can provide the seed and trees. I can provide all the necessary supplies and the necessary permits.
+My name will be on the trees and the name of the company will be listed.
+The trees will be cut and the logs will be transported to the place where they are needed.
+It will take about a week to cut and transport the trees to the area where they will be needed. I will provide all of the necessary tools and supplies.
+All the logs from the trees will go to the company that cut the trees for me.
+You will be paid for the logs you cut.
+We will make sure that the logs are transported safely to the right place.
+There will be a lot of work involved.
+If you are not a part of the group, you
+
+Parameters:
+Max Length: 130, Temperature: 0.5862703475534753, Top K: 46, Top P: 0.6765608774254188, No Repeat N-Gram Size: 2
+Response:
+I have a lot of trees, and I have to be able to describe them to people. I don't want to give them a name, because that would be too easy. But I do want them described. It's not enough to just say, "This is a tree." It has to have some kind of context. For example, I can describe a tall tree, but not a small one. A small tree has a trunk, branches, leaves, etc. The same goes for a big tree: I could describe it as a huge tree with branches and leaves and all,
+
+Parameters:
+Max Length: 128, Temperature: 0.5194521496817752, Top K: 35, Top P: 0.7321574231907958, No Repeat N-Gram Size: 2
+Response:
+I would like to have a tree with a trunk that is about 6 feet in diameter. I would also like it to be about 10 feet tall. The tree should be able to support a person of average height. It should also be resistant to rot and decay. Please include the following information:
+The tree must be free of any diseases or pests. A tree that has been treated with any of the chemicals listed below will not be considered to meet this requirement. If the tree is treated, please include a list of all the treatments that were used. (Note: All chemicals
+
+Parameters:
+Max Length: 178, Temperature: 0.6758418520916585, Top K: 40, Top P: 0.703064686518792, No Repeat N-Gram Size: 4
+Response:
+I want to know what it looks like. I want you to draw it. I want it to be a drawing.
+
+I want you to take the drawing and use it as a template for the drawing of the oak tree.
+
+You will need to take a photo of the tree and use it to create the drawing.
+You will also need to take photos of the tree's leaves, bark, and the trunk.
+
+Please be sure to include your name, email address, and a description of the drawing. You will be given a drawing of the tree.
+You can send the drawing to me as a pdf file.
+
+The drawing of the Oak Tree will be sent to you as a pdf.
+
+If you have any questions, please feel free to ask.
+
+Thank you for your time
+
+Parameters:
+Max Length: 99, Temperature: 0.5058068312808135, Top K: 23, Top P: 0.8448949402192891, No Repeat N-Gram Size: 4
+Response:
+A:
+
+The tree is a large oak, and is probably a good example of a large, old tree.  It is a very old tree, and is not likely to be found in the wild.  The tree is probably in a park or forest, and is likely to be quite large.  It has a large trunk, and is very thick.  It may be a good example for a large, mature tree
+
+Parameters:
+Max Length: 89, Temperature: 0.5031113561042961, Top K: 11, Top P: 0.5580579924195934, No Repeat N-Gram Size: 3
+Response:
+I have a large tree in my yard that I have been trying to get rid of for a while. I have tried to cut it down, but it is so large that I can't get a saw to cut through it. I am thinking of putting it in a container and putting it on the front porch. I would like to know what kind of tree it is and what kind
+
+Parameters:
+Max Length: 75, Temperature: 0.8124067034108553, Top K: 29, Top P: 0.5556878590768042, No Repeat N-Gram Size: 5
+Response:
+I'm looking for a tree that is large, healthy, and not too large.
+
+I'm looking for a large, healthy, mature oak tree that is not too large. The tree should be in good condition and not be diseased.
+
+I don't want to get rid of the tree. I just
+
+Parameters:
+Max Length: 128, Temperature: 0.8793959793097326, Top K: 29, Top P: 0.6141851342102298, No Repeat N-Gram Size: 3
+Response:
+I want to make a tree house.
+
+The tree is about 10 feet tall and has a trunk about 12 feet in diameter. The tree is a hybrid, which means it is the result of cross-pollination. The mother tree is an oak tree and the father tree is also an oak.
+The mother tree was planted in the spring and is still growing.
+There are two branches on the mother tree. One is about 4 feet tall. The other is about 8 feet tall, and is growing from the bottom of the mother.
+I want to build a treehouse
+
+Parameters:
+Max Length: 181, Temperature: 0.8511554362800215, Top K: 15, Top P: 0.6150190828645993, No Repeat N-Gram Size: 2
+Response:

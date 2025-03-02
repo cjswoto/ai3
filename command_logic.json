@@ -1,18 +1,90 @@
 {
-  "sleeping": {
-    "ai3": {"action": "update_status", "message": "ai3 ready.", "next_mode": "command"}
-
+  "monitor": {
+    "ai3 submit prompt": {
+      "action": "submit",
+      "message": "ai3 submitting prompt.",
+      "next_mode": "listening"
+    },
+    "ai3 close app": {
+      "action": "close",
+      "message": "ai3 closing down.",
+      "next_mode": ""
+    },
+    "ai3 open gpt": {
+      "action": "chat_gpt_command",
+      "message": "ai3 opening ChatGPT.",
+      "next_mode": "monitor"
+    },
+    "ai3 record message": {
+      "action": "update_status",
+      "message": "ai3 recording.",
+      "next_mode": "listening"
+    },
+    "ai3 next voice": {
+      "action": "next_voice",
+      "message": "Switching to the next voice.",
+      "next_mode": "command"
+    },
+    "ai3 next model": {
+      "action": "next_model",
+      "message": "Switching to the next model.",
+      "next_mode": "command"
+    },
+    "ai3 go to": {
+      "action": "go_to",
+      "message": "Switching to browsing mode.",
+      "next_mode": "browsing"
+    }
   },
   "listening": {
-    "ai3 exit": {"action": "update_status", "message": "ai3 going to sleep.", "next_mode": "sleeping"}
+    "ai3 exit": {
+      "action": "update_status",
+      "message": "ai3 going to sleep.",
+      "next_mode": "monitor"
+    },
+    "ai3 submit prompt": {
+      "action": "submit",
+      "message": "ai3 submitting prompt.",
+      "next_mode": "listening"
+    }
   },
   "command": {
-    "submit": {"action": "submit", "message": "ai3 submitting prompt.","next_mode": "sleeping"},
-    "exit": {"action": "exit", "message": "ai3 going to sleep.","next_mode": "sleeping"},
-    "close": {"action": "close","message": "ai3 closing down.", "next_mode": ""},
-    "chat": {"action": "chat_gpt_command","message": "ai3 opening ChatGPT.",  "next_mode": "sleeping"},
-    "cat": {"action": "chat_gpt_command","message": "ai3 opening ChatGPT.",  "next_mode": "sleeping"},
-    "hat": {"action": "chat_gpt_command","message": "ai3 opening ChatGPT.",  "next_mode": "sleeping"},
-    "record": {"action": "update_status", "message": "ai3 recording.","next_mode": "listening"}
+    "ai3 submit prompt": {
+      "action": "submit",
+      "message": "ai3 submitting prompt.",
+      "next_mode": "listening"
+    },
+    "ai3 exit": {
+      "action": "exit",
+      "message": "ai3 going to sleep.",
+      "next_mode": "monitor"
+    },
+    "ai3 close": {
+      "action": "close",
+      "message": "ai3 closing down.",
+      "next_mode": ""
+    },
+    "ai3 record": {
+      "action": "update_status",
+      "message": "ai3 recording.",
+      "next_mode": "listening"
+    },
+    "ai3 next voice": {
+      "action": "next_voice",
+      "message": "Switching to the next voice.",
+      "next_mode": "command"
+    },
+    "ai3 next model": {
+      "action": "next_model",
+      "message": "Switching to the next model.",
+      "next_mode": "command"
+    }
+  },
+  "browsing": {
+    "ai3 exit": {
+      "action": "update_status",
+      "message": "Exiting browsing mode.",
+      "next_mode": "monitor"
+    }
   }
 }

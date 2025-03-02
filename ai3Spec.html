@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>ai3 - v12 Specification</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+
+</head>
+<body>
+    <section id="GPT_PROMPT_FOR_THIS">
+        <h1>GPT PROMPT FOR THIS:</h1>
+        <p>
+            The provided code is an application called "ai3 - v12" that incorporates various features, including speech recognition, text-to-speech (TTS) capabilities, web browsing, and natural language generation (NLG) using a pre-trained language model. Below, we provide a detailed specification of the code:
+        </p>
+    </section>
+
+    <section id="Overview">
+        <h2>Overview</h2>
+        <p>
+            The code creates a graphical user interface (GUI) application using the Tkinter library. The application integrates several functionalities:
+        </p>
+        <ul>
+            <li>Speech recognition for user input</li>
+            <li>Text-to-speech for audio output</li>
+            <li>Web browsing using the Playwright library</li>
+            <li>Natural language generation using the GPT-Neo language model</li>
+            <li>Dynamic voice selection for TTS</li>
+        </ul>
+    </section>
+
+    <section id="Functionality">
+        <h2>Functionality</h2>
+        <p>
+            The code defines various functions and components to achieve its functionality:
+        </p>
+        <ul>
+            <li><strong>speak(text):</strong> This function converts text into spoken words using text-to-speech capabilities.</li>
+            <li><strong>update_status_message(message, status_label, log_display):</strong> Updates the status message in the GUI, speaks the message, and writes it to the log display.</li>
+            <li><strong>load_command_logic(file_path):</strong> Loads command logic from a JSON file, specifying available commands and their actions.</li>
+            <li><strong>list_voices():</strong> Lists available voices for text-to-speech.</li>
+            <li><strong>configure_recognizer():</strong> Configures and returns a speech recognition recognizer.</li>
+            <li><strong>get_speech_input(recognizer, source):</strong> Captures and converts speech input into text.</li>
+            <li><strong>load_model(model_name):</strong> Loads a pre-trained language model and tokenizer.</li>
+            <li><strong>generate_response(model, tokenizer, prompt, max_length, temperature, top_k, top_p, num_return_sequences, no_repeat_ngram_size):</strong> Generates a response using a pre-trained language model.</li>
+            <li><strong>on_voice_change(voice_var):</strong> Changes the voice used for text-to-speech based on the selected voice option.</li>
+            <li><strong>list_commands():</strong> Lists available commands in the current mode.</li>
+            <li><strong>on_submit(model_var, voice_var, prompt_entry, response_display, status_label, chatgpt_command, log_display):</strong> Handles user submissions and invokes appropriate actions.</li>
+            <li><strong>execute_command(command_details, args):</strong> Executes a command based on command details and logs the action.</li>
+            <li><strong>voice_control(update_status_lambda, window, on_submit_callback, prompt_entry, status_label, logo_label, logo_image, voice_options, model_options, voice_var, model_var, voice_menu, log_display):</strong> Controls voice recognition and interaction with the application.</li>
+        </ul>
+    </section>
+
+    <section id="User-Interface">
+        <h2>User Interface</h2>
+        <p>
+            The GUI includes the following components:
+        </p>
+        <ul>
+            <li>Status label for displaying messages</li>
+            <li>Voice selection dropdown</li>
+            <li>Model selection dropdown</li>
+            <li>Prompt entry area</li>
+            <li>Response display area</li>
+            <li>Log display area</li>
+        </ul>
+    </section>
+
+    <section id="Usage">
+        <h2>Usage</h2>
+        <p>
+            The application starts in "monitor" mode, waiting for voice commands. Users can wake up the application by saying "AI3" or open ChatGPT by saying "ChatGPT." Users can also provide prompts for natural language generation.
+        </p>
+    </section>
+
+    <section id="Modes">
+        <h2>Modes</h2>
+        <p>
+            The application operates in the following modes:
+        </p>
+        <ul>
+            <li><strong>monitor:</strong> The default mode where the application awaits voice commands.</li>
+            <li><strong>browsing:</strong> Entered when the user requests web browsing. The user can exit this mode by saying "exit."</li>
+            <li><strong>listening:</strong> Reserved for non-command input that is appended to the prompt entry.</li>
+        </ul>
+    </section>
+
+    <section id="Command-Logic">
+        <h2>Command Logic</h2>
+        <p>
+            The application utilizes a JSON file ("command_logic.json") to define available commands and their corresponding actions. Users can issue voice commands recognized by the application, and the relevant actions are executed.
+        </p>
+    </section>
+
+    <section id="Voice-Control">
+        <h2>Voice Control</h2>
+        <p>
+            The application continuously listens for voice commands, processes them, and performs actions accordingly. It dynamically selects voices for TTS based on user preferences.
+        </p>
+    </section>
+
+    <section id="Closing-Application">
+        <h2>Closing the Application</h2>
+        <p>
+            Users can close the application by issuing the "close" command, which results in the termination of the application.
+        </p>
+    </section>
+
+    <section id="References">
+        <h2>References</h2>
+        <ul>
+            <li>Tkinter: Python GUI Library</li>
+            <li>Pyttsx3: Text-to-Speech Conversion Library</li>
+            <li>SpeechRecognition: Speech Recognition Library</li>
+            <li>Transformers: Natural Language Processing Library</li>
+            <li>Playwright: Browser Automation Library</li>
+        </ul>
+    </section>
+</body>
+</html>
